@@ -1,0 +1,14 @@
+{
+    "name": "quote-widge",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^13.6.9"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "request": "^2.88.2"
+    }
+}
